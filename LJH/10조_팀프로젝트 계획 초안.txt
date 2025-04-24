@@ -1,0 +1,9 @@
+지태원 https://github.com/JitaeWoo
+김동진 https://github.com/GBron
+여지훈 https://github.com/devhoon1999
+이종환 https://github.com/eunjegolem
+최영은 https://github.com/Young-EunC
+
+맵 제작 담당
+스테이지 구성 5~10 스테이지 구성
+각 스테이지별로 진행하되 최대한 재활용 구성
