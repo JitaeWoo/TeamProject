@@ -1,8 +1,8 @@
-지태원 https://github.com/JitaeWoo
-김동진 https://github.com/GBron
-여지훈 https://github.com/devhoon1999
-이종환 https://github.com/eunjegolem
-최영은 https://github.com/Young-EunC
+지태원 플레이어조작 https://github.com/JitaeWoo
+김동진 스킬(장착 아이템) https://github.com/GBron
+여지훈 게임 매니저https://github.com/devhoon1999
+이종환 맵 https://github.com/eunjegolem
+최영은 몬스터 https://github.com/Young-EunC
 
 맵 제작 담당
 스테이지 구성 5~10 스테이지 구성
